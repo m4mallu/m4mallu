@@ -1,7 +1,5 @@
 ### Hi there, I'm [Mallu Boy](https://github.com/m4mallu) 👋
 
----
-
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/m4mallu/&title=Profile%20Views)
 
 
