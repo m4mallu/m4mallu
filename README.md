@@ -11,8 +11,6 @@
 - 🥅 2021 Goals: Learn Python, Javascript, C++ etc 🥵
 - ⚡ Fun fact: Am not a gamer 😂 
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="malluBoy | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -20,8 +18,6 @@
 
 <br />
 <br />
-
----
 
 ### Languages and Tools:
 
@@ -31,7 +27,6 @@
 <br />
 
 ---
-
 
 <img align="left" alt="MalluBoy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=m4mallu&show_icons=true&hide_border=true" />
 
