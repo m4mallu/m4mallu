@@ -1,5 +1,5 @@
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> &nbsp; &nbsp; 𝑰'𝒎 𝑹𝒆𝒏𝒋𝒊𝒕𝒉 𝑴𝒂𝒏𝒈𝒂𝒍</h1> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p align="left"> <a href="https://github.com/m4mallu"><img src="https://komarev.com/ghpvc/?username=Vaibhav-08&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhav-08" /></a> </p>
+<p align="left"> <a href="https://github.com/m4mallu"><img src="https://komarev.com/ghpvc/?username=Vaibhav-08&label=Profile%20views&color=0e75b6&style=flat" alt="m4mallu" /></a> </p>
 
 <details>
   <summary><b>:standing_man: &nbsp;Connect with me</b></summary>
@@ -32,7 +32,6 @@
     <a href="https://upier.org/pay?vpa=renju700@okicici&amount=100">
         <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e1/20200901100646%21UPI-Logo-vector.svg" />
     </a>
-  </p>
 </details>
 
 <details>
@@ -46,7 +45,7 @@
 </details>
 
   <a href="https://github.com/m4mallu">
-    <p align="left"">
+    <p align="left">
         <img height="175px" src="https://github-readme-stats.vercel.app/api?username=m4mallu&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true" /> 
     </p>
   </a> 
