@@ -67,10 +67,9 @@
 <details>
   <summary><b>My Github statistics</b></summary>
   <br/>
-  <a href="https://github.com/m4mallu">
-    <p align="left">
-        <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=m4mallu&theme=ayu-mirage&hide_border=true" /> &nbsp;&nbsp;
-            <img height="175px" src="https://github-readme-stats.vercel.app/api?username=m4mallu&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true" />
-    </p>
-   </a>
+  <p align="left">
+    <a href="https://github.com/m4mallu">
+      <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=m4mallu&theme=ayu-mirage&hide_border=true" />
+      <img height="175px" src="https://github-readme-stats.vercel.app/api?username=m4mallu&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true" /></a>
+  </p>
 </details>
