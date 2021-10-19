@@ -69,7 +69,8 @@
   <br/>
   <p align="left">
     <a href="https://github.com/m4mallu">
-      <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=m4mallu&theme=ayu-mirage&hide_border=true" />
-      <img height="175px" src="https://github-readme-stats.vercel.app/api?username=m4mallu&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true" /></a>
-  </p>
+        <img width="49%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=m4mallu&count_private=False&show_icons=true&title_color=30F229&icon_color=F2F407&text_color=F9F9F9&bg_color=1F222E&hide_border=true"/>
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=m4mallu&theme=ayu-mirage&hide_border=true"/>
+    </a>
+</p>
 </details>
