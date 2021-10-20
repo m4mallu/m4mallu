@@ -1,4 +1,4 @@
-<img align="centre" src="https://github.com/m4mallu/m4mallu/blob/main/img/Header.png">
+<img align="centre" src="https://github.com/m4mallu/m4mallu/blob/main/img/header.png">
 
 <p align="left"> <a href="https://github.com/m4mallu"><img src="https://komarev.com/ghpvc/?username=Vaibhav-08&label=Profile%20views&color=0e75b6&style=flat" alt="m4mallu" /></a> </p>
 
