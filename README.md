@@ -1,4 +1,5 @@
 <h1 align="left">𝗛𝗲𝗹𝗹𝗼 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px"> &nbsp; &nbsp; 𝑰'𝒎 𝑹𝒆𝒏𝒋𝒊𝒕𝒉 𝑴𝒂𝒏𝒈𝒂𝒍</h1>
+
 <p align="left"> <a href="https://github.com/m4mallu"><img src="https://komarev.com/ghpvc/?username=Vaibhav-08&label=Profile%20views&color=0e75b6&style=flat" alt="m4mallu" /></a> </p>
 
 <details>
