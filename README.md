@@ -6,9 +6,9 @@
   <summary><b>About</b></summary>
   <p align="left">
     
-    I am an Electronics Engineer and Product Designer, basically doing software-Hardware interfacing projects in embedded systems.
-    Also I'm learning differentprogramming languages, frameworks, front end & backend deveopment, Mobile Apps, AI and Ml, Data
-    Visualization tools, Databases and Game Engines.
+    I am an Electronics Engineer and Product Designer, basically doing software-Hardware interfacing projects in embedded
+    systems. Also I'm learning differentprogramming languages, frameworks, front end & backend deveopment, Mobile Apps,
+    AI and Ml, Data Visualization tools, Databases and Game Engines.
 </details>
     
 <details>
