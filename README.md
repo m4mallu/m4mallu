@@ -4,11 +4,12 @@
 
 <details>
   <summary><b>About</b></summary>
-  <br/>
-<code>
-    I am an Electronics Engineer and Product Designer, basically doing software-Hardware interfacing projects in embedded systems. Also I'm learning different         programming languages, frameworks, front end & backend deveopment, Mobile Apps, AI and Ml, Data Visualization tools, Databases and Game Engines.
-</code>
-    </details>
+  <p align="left">
+    
+    I am an Electronics Engineer and Product Designer, basically doing software-Hardware interfacing projects in embedded systems.
+    Also I'm learning differentprogramming languages, frameworks, front end & backend deveopment, Mobile Apps, AI and Ml, Data
+    Visualization tools, Databases and Game Engines.
+</details>
     
 <details>
   <summary><b>Connect with me</b></summary>
