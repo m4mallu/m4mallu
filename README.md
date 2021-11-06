@@ -23,7 +23,7 @@
     <p align="left">
         <a href="https://t.me/space4renjith"><img height="35px" src="https://img.shields.io/twitter/url?label=Telegram&logo=Telegram&url=https%3A%2F%2Ft.me%2Fspace4renjith" /></a>
         <a href="https://twitter.com/space4renjith"><img height="35px" src="https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&url=https%3A%2F%2Ft.me%2Fspace4renjith" /></a>
-        <a href="https://mailto:renju700@gmail.com"><img height="35px" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&url=https%3A%2F%2Fmailto%3Arenju700%40gmail.com" /></a>
+        <a href="mailto:renju700@gmail.com"><img height="35px" src="https://img.shields.io/twitter/url?label=Gmail&logo=Gmail&url=https%3A%2F%2Fmailto%3Arenju700%40gmail.com" /></a>
         <a href="https://github.com/m4mallu"><img height="35px" src="https://img.shields.io/twitter/url?label=Github&logo=Github&url=https%3A%2F%2Fgithub.com%2Fm4mallu" /></a>
     </p>
 </details>
