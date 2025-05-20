@@ -8,7 +8,7 @@
 </h2>  
 <p>
     <samp>
-    I am an Electronics Engineer, Product Designer, digital fabricator and developer. I mostly preferred to do HMI projects using embedded systems, AI bot development for web applications and embedded system designing. I'm also learning different programming languages, frameworks, front end & backend deveopment, Mobile Apps, AI and Ml, and Databases.
+    Dual Property Maintenance Team Lead at DoubleTree & Home2 Suites by Hilton, Kitchener | 6 Years experience in Hospitality Maintenance | 20 Years of experience in Electrical Maintenance & Automation
     </samp>
 </p>
 <div>
