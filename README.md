@@ -8,7 +8,7 @@
 </h2>  
 <p>
     <samp>
-    Dual Property Maintenance Team Lead at DoubleTree & Home2 Suites by Hilton, Kitchener | 6 Years experience in Hospitality Maintenance | 20 Years of experience in Electrical Maintenance & Automation
+    Maintenance Manager at Sandman, 20 Years of experience in Electrical Maintenance & Automation
     </samp>
 </p>
 <div>
