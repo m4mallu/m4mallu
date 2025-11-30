@@ -1,6 +1,6 @@
 <h2>
     <samp>
-        Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> I am Renjith Rajan.
+        Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> I'm Renjith Rajan.
     </samp>
 </h2>  
 
