@@ -6,11 +6,6 @@
         Hi... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> I am Renjith.
     </samp>
 </h2>  
-<p>
-    <samp>
-    Maintenance Manager at Sandman, 20 Years of experience in Electrical Maintenance & Automation
-    </samp>
-</p>
 <div>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=m4mallu&ampshow_icons=true&amp;theme=gotham&amp;include_all_commits=true&amp;count_private=true" width="420px">
