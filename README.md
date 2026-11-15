@@ -9,4 +9,4 @@
 [![Blog](https://img.shields.io/badge/My_Blog-grey?style=for-the-badge&logo=Blogger)](https://space4renjith.blogspot.com/)
 [![Blog](https://img.shields.io/badge/Project_updates-grey?style=for-the-badge&logo=telegram)](https://t.me/rmprojects)
 <br />
-![Top Langs](https://vercel.app)
+
