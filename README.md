@@ -10,3 +10,14 @@
 [![Blog](https://img.shields.io/badge/Project_updates-grey?style=for-the-badge&logo=telegram)](https://t.me/rmprojects)
 <br />
 
+<h6>
+    💻 Languages used in my projects
+</h6>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="20"/> Kotlin |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="20"/> Embedded C |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"/> SQL |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="20"/> DOS
+</p>
